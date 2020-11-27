@@ -67,12 +67,12 @@ i18n:
   loading: 载入中
   navGitHub: GitHub
   footer: 本页面是 [开源软件]($REPO), 由 [Upptime](https://upptime.js.org) 出品, 由 [xu\_zh](https://github.com/ngc7331) 翻译
-  rateLimitExceededTitle: 达到请求上限
-  rateLimitExceededIntro: 你已达到本小时的请求数上限，因此你需要等待一段时间才能再次访问。你也可以添加一个GitHub个人访问令牌(Personal Access Token)来继续使用本网站。
+  rateLimitExceededTitle: 达到请求数上限
+  rateLimitExceededIntro: 你已达到本小时的请求数上限，因此你需要等待一段时间才能再次访问。你也可以添加一个GitHub个人访问令牌(Personal Access Token)来继续使用本页面。
   rateLimitExceededWhatDoesErrorMean: 这个错误意味着什么？
-  rateLimitExceededErrorMeaning: 这个网站使用了GitHub API来获得我们网站的事实状态。GitHub一般允许每个IP地址每小时发出60次请求，你已达到该上限。
+  rateLimitExceededErrorMeaning: 本页面使用了GitHub API来获得这些服务的实时状态。GitHub一般允许每个IP地址每小时发出60次请求，你已达到该上限。
   rateLimitExceededErrorHowCanFix: 如何修复该错误？
-  rateLimitExceededErrorFix: 你可以稍等一个小时来恢复你的IP地址访问上限。你也可以添加你的GitHub个人访问令牌(Personal Access Token)，这会给你额外的每小时5000次请求上限。
+  rateLimitExceededErrorFix: 你可以稍等一个小时来自动恢复你的IP地址访问限制。你也可以添加你的GitHub个人访问令牌(Personal Access Token)，这会允许你每小时额外发出5000次请求。
   rateLimitExceededGeneratePAT: 学习如何生成个人访问令牌(Personal Access Token)
   rateLimitExceededHasSet: 你已设置个人访问令牌(Personal Access Token)
   rateLimitExceededRemoveToken: 移除令牌
@@ -80,6 +80,6 @@ i18n:
   rateLimitExceededCopyPastePAT: 复制并粘贴你的令牌
   rateLimitExceededSaveToken: 保存令牌
   errorTitle: 发生错误
-  errorIntro: 尝试获取最新信息时发生错误
+  errorIntro: 尝试获取最新状态时发生错误
   errorText: 请稍后再试
   errorHome: 返回主页
