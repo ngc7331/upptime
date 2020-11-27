@@ -9,9 +9,9 @@ sites:
   - name: Nextcloud
     url: https://nc.ngc7331.top:4443
   - name: Onedrive-Programs
-    url: $ONEDRIVE_PROGRAMS
+    url: $SECRET_SITE_1
   - name: Onedrive-Programs-Backend(Microsoft)
-    url: $ONEDRIVE_PROGRAMS_BACKEND
+    url: $SECRET_SITE_2
     
 assignees: # Users to assign downtime issues (optional)
   - ngc7331
