@@ -1,10 +1,34 @@
 [
   {
-    "name": "My Blog",
-    "url": "https://www.ngc7331.top:4443",
-    "slug": "my-blog",
+    "name": "Blog",
+    "url": "https://ngc7331.top:4443",
+    "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1858
+    "time": 5256
+  },
+  {
+    "name": "Nextcloud",
+    "url": "https://nc.ngc7331.top:4443",
+    "slug": "nextcloud",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 3259
+  },
+  {
+    "name": "Onedrive-Programs",
+    "url": "$ONEDRIVE_PROGRAMS",
+    "slug": "onedrive-programs",
+    "status": "down",
+    "uptime": "3.94%",
+    "time": 0
+  },
+  {
+    "name": "Onedrive-Programs-Backend(Microsoft)",
+    "url": "$ONEDRIVE_PROGRAMS_BACKEND",
+    "slug": "onedrive-programs-backend-microsoft",
+    "status": "down",
+    "uptime": "3.04%",
+    "time": 0
   }
 ]
