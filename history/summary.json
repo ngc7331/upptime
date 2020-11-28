@@ -1,42 +1,26 @@
 [
   {
-    "name": "Blog",
+    "name": "Black",
     "url": "https://ngc7331.top:4443",
-    "slug": "blog",
+    "slug": "black",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2940
+    "time": 3062
   },
   {
-    "name": "Nextcloud",
-    "url": "https://nc.ngc7331.top:4443",
-    "slug": "nextcloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 2487
-  },
-  {
-    "name": "Onedrive-Programs",
-    "url": "$SECRET_SITE_1",
-    "slug": "onedrive-programs",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 3405
-  },
-  {
-    "name": "Onedrive-Programs-Backend(Microsoft)",
+    "name": "Onedrive(Microsoft)",
     "url": "$SECRET_SITE_2",
-    "slug": "onedrive-programs-backend-microsoft",
+    "slug": "onedrive-microsoft",
     "status": "up",
-    "uptime": "95.79%",
-    "time": 863
+    "uptime": "100.00%",
+    "time": 3658
   },
   {
     "name": "Red",
     "url": "$SECRET_SITE_3",
     "slug": "red",
-    "status": "down",
-    "uptime": "18.81%",
-    "time": 351
+    "status": "up",
+    "uptime": "41.48%",
+    "time": 568
   }
 ]
