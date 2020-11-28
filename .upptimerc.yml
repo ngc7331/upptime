@@ -4,17 +4,13 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Blog
+  - name: Black
     url: https://ngc7331.top:4443
-  - name: Nextcloud
-    url: https://nc.ngc7331.top:4443
-  - name: Onedrive-Programs
-    url: $SECRET_SITE_1
-  - name: Onedrive-Programs-Backend(Microsoft)
+  - name: Onedrive(Microsoft)
     url: $SECRET_SITE_2
   - name: Red
     url: $SECRET_SITE_3
-    
+
 assignees: # Users to assign downtime issues (optional)
   - ngc7331
 
@@ -23,10 +19,10 @@ status-website:
   #cname: upptime.ngc7331.top
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://tools.ngc7331.top:4443/server-icon.png
+  logoUrl: https://raw.githubusercontent.com/ngc7331/upptime/master/icon.png
   name: xu_zh的服务器还活着吗？
   introTitle: "欢迎来到xu\_zh的辣鸡服务器"
-  introMessage: "本页面基于开源软件[**Upptime**](https://github.com/koj-co/upptime)和Github Action，其作用是监控本站服务是否正常运行"
+  introMessage: "本页面基于开源软件[**Upptime**](https://github.com/koj-co/upptime)和Github Action，其作用是监控本站服务是否正常运行。Black为阿里云公网服务器，包含Blog、Nextcloud、Oneindex等服务。Onedrive为由微软提供的后端服务，如果您无法从Oneindex上下载文件则多半是该服务出现问题。Red为内网测试服务器。"
   navbar:
     #- title: Status
     #  href: /
@@ -38,6 +34,7 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+# 汉化(Translated to Chinese by xu_zh)
 i18n:
   activeIncidents: 活跃事件
   allSystemsOperational: 所有服务运行正常
