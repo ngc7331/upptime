@@ -9,27 +9,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1495,
-    "timeDay": 961,
-    "timeWeek": 1495,
-    "timeMonth": 1495,
-    "timeYear": 1495
+    "time": 1460,
+    "timeDay": 1143,
+    "timeWeek": 1460,
+    "timeMonth": 1460,
+    "timeYear": 1460
   },
   {
     "name": "Red",
     "url": "$SECRET_SITE_1",
     "slug": "red",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
-    "time": 991,
-    "timeDay": 688,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 964,
+    "timeDay": 658,
+    "timeWeek": 964,
+    "timeMonth": 964,
+    "timeYear": 964
   },
   {
     "name": "Onedrive(Microsoft)",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1638,
-    "timeDay": 934,
-    "timeWeek": 1638,
-    "timeMonth": 1638,
-    "timeYear": 1638
+    "time": 1708,
+    "timeDay": 2336,
+    "timeWeek": 1708,
+    "timeMonth": 1708,
+    "timeYear": 1708
   }
 ]
