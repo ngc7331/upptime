@@ -64,19 +64,19 @@
     "url": "http://orange.ngc7331.top",
     "icon": "https://favicons.githubusercontent.com/orange.ngc7331.top",
     "slug": "orange",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 563,
-    "timeDay": 563,
-    "timeWeek": 563,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "status": "up",
+    "uptime": "91.31%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "91.31%",
+    "uptimeMonth": "91.31%",
+    "uptimeYear": "91.31%",
+    "time": 526,
+    "timeDay": 526,
+    "timeWeek": 526,
+    "timeMonth": 526,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2020-12-21": 0
+      "2020-12-21": 8
     }
   }
 ]
