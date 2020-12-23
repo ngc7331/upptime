@@ -11,7 +11,7 @@ sites:
   - name: Onedrive(Microsoft)
     url: $SECRET_SITE_2
   - name: Orange
-    url: http://orange.ngc7331.top
+    url: http://ngc7331.site
 
 assignees: # Users to assign downtime issues (optional)
   - ngc7331
