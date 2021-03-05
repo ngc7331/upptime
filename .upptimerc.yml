@@ -6,8 +6,6 @@ repo: upptime # Your Github repository name
 sites:
   - name: Orange
     url: https://isorangealive.ngc7331.site
-  - name: Black
-    url: https://isblackalive.ngc7331.top:4443
   - name: Red
     url: $SECRET_SITE_1
   - name: Onedrive(Microsoft)
