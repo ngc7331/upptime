@@ -8,6 +8,8 @@ sites:
     url: https://isorangealive.ngc7331.site
   - name: Red
     url: $SECRET_SITE_1
+  - name: Silver
+    url: https://issilveralive.ngc7331.site
   - name: Onedrive(Microsoft)
     url: $SECRET_SITE_2
 
